@@ -2,7 +2,38 @@
 	font-family:Helvetica ;
 }
 
+h3 {
+	font-size: 23px;
+	font-weight: bold;
+	margin-bottom: 3px;
+}
+
+h4 {
+	font-size: 19px;
+	margin-bottom: 2px;
+}
+
+
+.opis-gura {
+	margin-top: 2px;
+}
+
+.zegar {
+	size: 29px;
+	border: 2px solid;
+	padding: 4px;
+	margin-left: 91%;
+	position: absolute;
+}
+
 .spis-tresci {
+	padding-left: 20px;
 	border: 3px solid;
 	background-color: #d1dae8 ;
+	margin-right: 79%;
 }
+
+.zdiecie-enver {
+	border: 4px solid black;
+}
+
